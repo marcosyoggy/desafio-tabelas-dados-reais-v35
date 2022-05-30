@@ -28,3 +28,7 @@ th.filmes {
     text-align: center;
 } 
 
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 3px 0px;
+}
