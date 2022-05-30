@@ -2,3 +2,30 @@ html {
     border: 2px solid red;
     width: 98vw;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+th, tr, td {
+    border: 1px solid red;
+}
+th.grupos {
+    width: 100px;
+}
+
+th.nomes {
+    width: 200px;
+}
+
+th.filmes {
+    width: 100px;
+}
+
+.td-grupos {
+    text-align: center;
+}
+
+.td-filmes {
+    width: 100px;
+}
