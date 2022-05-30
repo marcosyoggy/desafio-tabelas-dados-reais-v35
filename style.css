@@ -9,6 +9,8 @@ table {
 
 th, tr, td {
     border: 1px solid red;
+    width: 100px;
+
 }
 th.grupos {
     width: 100px;
@@ -26,6 +28,6 @@ th.filmes {
     text-align: center;
 }
 
-.td-filmes {
+/* .td-filmes {
     width: 100px;
-}
+} */
